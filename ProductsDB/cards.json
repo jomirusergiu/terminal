@@ -1,0 +1,676 @@
+﻿{
+  "All": [
+    {
+      "id": "LSAS Cloud",
+      "title": "LSAS Cloud",
+      "description": "LSAS offers space applications available to run on the cloud. LSAS Cloud offers you an IT-free cloud solution to run your applications.."
+    },
+    {
+      "id": "STK Cloud",
+      "title": "STK Cloud",
+      "description": "The Systems Tool Kit is a System designed mainly for Digital Mission Engineering, Simulations, Mission Planning, Design and Analysis.."
+    },
+    {
+      "id": "ODTK Cloud",
+      "title": "ODTK Cloud",
+      "description": "Orbit Determination Tool Kit (ODTK) is used to process real tracking data for orbit determination and the realistic.."
+    },
+    {
+      "id": "UMA",
+      "title": "Unified Mission Analysis",
+      "description": "Unified Mission Analysis and Automation tool is a COTS product from LSAS Tec. UMA extension of popular and industry standard.."
+    },
+    {
+      "id": "TRAINING Cloud",
+      "title": "Training Cloud",
+      "description": "Training classes can be hosted on LSAS Cloud. These training classes allow for virtually no setup. Please let us know in order to add your courses.."
+    },
+    {
+      "id": "PARTNERS",
+      "title": "Our Partners",
+      "description": "Our partners drive innovation and excellence in the space industry. Together, we deliver exceptional capabilities and advance the space community.."
+    },
+    {
+      "id": "PARTNER",
+      "title": "Become a Partner",
+      "description": "Showcase your cutting-edge technology on our Terminal, reaching a global audience of space industry professionals.."
+    },
+    {
+      "id": "EVENTS",
+      "title": "Upcoming Events",
+      "description": "Whether you are a long-time supporter or new to our world, these events are the perfect occasion to meet face-to-face.."
+    },
+    {
+      "id": "DATA",
+      "title": "Spotlight Data",
+      "description": "Presenting our latest featured space data offerings, focusing on all orbits such as LEO, MEO, GEO, HEO and more.."
+    },
+    {
+      "id": "TRAINING",
+      "title": "Spotlight Training",
+      "description": "Presenting our latest featured training, focused on specific learning objectives for enhanced skills development.."
+    }
+  ],
+ 
+  "products": [
+    {
+      "Id": "UMA FD",
+      "Title": "UMA Flight Dynamics",
+      "SubTitlePrimary": "Solving the SSA orbit determination problem",
+      "SubTitleSecondary": "Process tracking data and generate orbit ephemeris with realistic covariance",
+      "Description": "UMA Flight Dynamics is a tool focused mainly on things such as Orbit Estimation, Automated Sensor Calibration, Automated Initial Orbit Determination, Maneuver Detection and Processing, Observation Association, Uncorrelated Tracks Processing as well as Automated Reporting and Graphing with capabilities of Exporting products for sharing and sync with other products.",
+      "Features": [
+        "Auto IOD - Initial Orbit Determination",
+        "Auto BLS - Batched Least Squares",
+        "UCT Tool - Uncorrelated Tracks",
+        "OA Tool - Observation Association",
+        "MP Tool - Maneuver Processing",
+        "CovEst Tool - Covariance Estimation",
+        "AutoCal Tool - Automated Tracker Calibration",
+        "OD Evaluation - Auto Evaluation of Results"
+      ]
+    },
+    {
+      "Id": "UMA OT",
+      "Title": "UMA Operations Tools",
+      "SubTitlePrimary": "Support the SSA Operations processing",
+      "SubTitleSecondary": "Mainly focusing on mission planning, design, automation and analysis",
+      "Description": "Elevating mission design, planning and analysis, through advanced automation for enhanced operational efficiency. UMA Operations Tools suite of tools and capabilities empowers space professionals to perform advanced analysis, streamline operations, and gain deep insights for informed decision-making.",
+      "Features": [
+        "Auto - Automate various capabilities",
+        "Cov - Coverage areas analysis",
+        "CA - Conjunction analysis processing",
+        "LA - Launch analysis processing",
+        "RA - Re-entry analysis processing",
+        "DA - Deck Access processing",
+        "TC - Time Calculation processing",
+        "PA - Phase angle analysis processing",
+        "RPO’s - Rendezvous & Proximity Operations",
+        "FC - File conversion to various formats"
+      ]
+    },
+    {
+      "Id": "UMA X",
+      "Title": "UMA X - Operational SSA Solution",
+      "SubTitlePrimary": "Server Based Space Operations Center",
+      "SubTitleSecondary": "Designed for scalability, reliable performance, full-database integration, secure operations, and web-based interface",
+      "Description": "UMA X using the SSA Software Suite (SSS) is a comprehensive Space Operations Center software solution. UMA provides both the SSA Operational solution along with desktop products for end-to-end operations.",
+      "Features": [
+        "OA - Observation association",
+        "OD - Orbit determination",
+        "EX - Ephemeris extension",
+        "MP - Maneuver processing",
+        "UCT - Uncorrelated tracks processing",
+        "CA - Conjunction analysis",
+        "RA - Re-Entry Analysis predictions",
+        "RPOs - Rendezvous & proximity operations"
+      ]
+    },
+    {
+      "Id": "UMA DS",
+      "Title": "UMA Digital Satellite",
+      "SubTitlePrimary": "Digital Twin solution for satellite operations",
+      "SubTitleSecondary": "Combining industry standard and COTS technology for end-to-end simulation of satellite operations",
+      "Description": "UMA DS - Digital twin solution supports the future of digital satellite operations through an innovative Digital Transformation approach. By combining some of the highest industry standards and COTS technology for end-to-end simulation, uplink command sequences and overall satellite operations.",
+      "Features": [
+        "Command Sequences - Uplink flight software commands",
+        "Monitoring - Real-time telemetry dashboard",
+        "Visualizing - Satellite in a simulated environment",
+        "Integration - Hardware components fidelity",
+        "Mission Planning - For LEO, GEO, RPOs, Cislunar",
+        "Trajectory Design - Astrogator ensuring accuracy",
+        "Operational Decisions - Fail-safe virtual setting"
+      ]
+    },
+    {
+      "Id": "UMA VS",
+      "Title": "UMA Virtual Space",
+      "SubTitlePrimary": "Enhancing Decision Making in space operations",
+      "SubTitleSecondary": "Enabling operators to perform wargame scenarios between a Red Team vs a Blue Team",
+      "Description": "UMA VS - Virtual Space Wargame enables operators to perform wargaming scenarios between a Red Team vs a Blue Team, enabling comprehensive analysis, and enhancing decision-making in space operations.",
+      "Features": [
+        "Red VS Blue - Space Wargaming",
+        "Trajectory Design - Planning & Execution",
+        "Satelite - Mission operations",
+        "Tracking - Track opponent satellites",
+        "Training - Enhance Decision Making",
+        "Analysis - Effects-Based Outcomes",
+        "Orbital Dynamics - Full Physics Environment",
+        "OD - Orbit Determination and scheduling",
+        "MP - Maneuver detection and processing",
+        "SDA - Multi-Domain Support"
+      ]
+    },
+	{
+    "Id": "SOTA",
+    "Title": "Space Object Threat Assessment (SOTA)",
+    "SubTitlePrimary": "Assess vulnerability to safeguard your space assets",
+    "SubTitleSecondary": "Conduct vulnerability analysis quickly and simultaneously for all operational assets",
+    "Description": "SOTA software leverages COMSPOC’s pedigree software to assess vulnerability of any space object due to the action of another ground-or space-based object. SOTA provides analytical output and 3D visualization in a web-based display. Allow SOTA to make your mission critical studies, training, operations or exercise events more effective.",
+    "Features": [
+      "Three-step workflow",
+      "Measure of vulnerability",
+      "Time dynamic",
+      "User output",
+      "3D visualization",
+      "Addressable events"
+    ]
+  },
+  {
+    "Id": "SEG",
+    "Title": "Space Event Generator (SEG)",
+    "SubTitlePrimary": "Simulate space events for Test, Training, and Exercise (TTX) support",
+    "SubTitleSecondary": "Link events together to create a scenario, select trackers and sensor cadences to process it, and produce a realistic set of simulated observations",
+    "Description": "As space becomes an increasingly dangerous environment for satellites, operators must be ready to detect and respond to potential threats. With Space Event Generator (SEG), you can quickly develop high-fidelity simulations of space events to test detection algorithms, train operators, and perform readiness exercises. SEG can simulate a wide assortment of space events, which describe types of behaviors conducted by satellites. These events can vary from simple maneuvers by single satellites to complex multi-satellite collisions and breakups.",
+    "Features": [
+      "Time independent",
+      "Robust 3D visualization",
+      "Accuracy",
+      "SOA Architecture",
+      "User workflows",
+      "Proximity Operations",
+      "Conjunctions",
+      "Maneuvers",
+      "De-orbit"
+    ]
+  },
+  {
+    "Id": "SSS",
+    "Title": "SSA Software Suite (SSS)",
+    "SubTitlePrimary": "Space situational awareness in an off-the-shelf, enterprise package",
+    "SubTitleSecondary": "Integrates all phases of the space situational awareness process, from initial observation collection and processing to actionable predictive analysis",
+    "Description": "SSA Software Suite delivers space situational awareness (SSA) capabilities in a service-oriented architecture. This architecture is designed for scalability, reliable performance, full database integration, secure operations and web-based user interactions. The COMSPOC SSA Software Suite is a comprehensive Space Operations Center (SpOC) in an integrated, off-the-shelf package",
+    "Features": [
+      "Key Sensor Network Administration",
+      "Orbit Determination",
+      "Maneuver Processing",
+      "Predictive, Actionable Analytics",
+      "Proven, Mature Technology Prepared for Operations",
+      "Designed for Awareness",
+      "Developed for Customized Interoperability"
+    ]
+  },
+  {
+    "Id": "ODSSA",
+    "Title": "Orbit Determination Space Situational Awareness (ODSSA)",
+    "SubTitlePrimary": "Reverse engineer spacecraft maneuvers, and examine and correct observation problems",
+    "SubTitleSecondary": "Solve for the maneuver characteristics of non-cooperative RSOs and accurately reconstruct them to gain insight into mission and intent",
+    "Description": "ODSSA is automating maneuver processing with a high degree of both accuracy and speed, automatically refining the solution until it meets the needed criteria. Allowing to directly modify the maneuver hypothesis and customize the algorithm. It's including single and two-burn maneuver hypothesizes and is sensitive to both large and small objective function errors. Also helps taking advantage of multi-core processing for improved system performance",
+    "Features": [
+      "Computes and analyze residuals",
+      "Evaluates the objective function",
+      "Refines the solution",
+      "Automatically recovers",
+      "Reevaluates with new data",
+      "Algorithm control and feedback"
+    ]
+  },
+  {
+    "Id": "SOLIS",
+    "Title": "SOLIS",
+    "SubTitlePrimary": "Provide a complete spacecraft simulation environment in STK",
+    "SubTitleSecondary": "Rapidly evaluate system trade-offs and ensure that spacecraft capabilities and constraints are considered early and satisfied at all times.",
+    "Description": "STK SOLIS architecture embeds a desktop version of Rocketlab on-board flight software. This modular flight software architecture provides rapid spacecraft development, assembly, test and integration. It also provides autonomous on-board operations and enhances integration and test with its high fidelity 'test like you fly' capabilities. Powered by Rocketlab's MAX and ODySSy, SOLIS users are able to interact with real high-heritage and fidelity Flight Software, resulting in a true simulation experience throughout the entire life cycle.",
+    "Features": [
+      "Attitude determination modeling",
+      "Attitude control modeling",
+      "Attitude disturbance modeling",
+      "Mode control & guidance",
+      "Power & thermal modeling",
+      "Target planning",
+      "Spacecraft operations",
+      "End-to-end spacecraft simulation"
+    ]
+  },
+  {
+    "Id": "MAX",
+    "Title": "MAX (Modular, Autonomous, eXtendible) Flight Software",
+    "SubTitlePrimary": "Mission Ready Space Software off-the-shelf",
+    "SubTitleSecondary": "A fully customizable flight software suite that provides the foundation for your complex space mission from day one",
+    "Description": "The MAX Flight Software with MAX Tool Suite includes ODySSy, Sequencer, and the DevTool. These tools provide an out-of-the-box solution to meet the demands of modern space endeavors. It provides a full life-cycle mature solution, with high-performance object-oriented C++ code base, including extensive software libraries to hit the ground running. MAX FSW incorporates ODySSy (On-Board Dynamic Simulation System), a unique built-in test capability with high-fidelity full mission modeling, enabling rapid spacecraft development.",
+    "Features": [
+      "Full Life-cycle solution",
+      "Powerful sequence engine",
+      "Onboard Simulation System",
+      "GNC Capabilities",
+      "Custom Components",
+      "Cost Effective",
+      "Flight-proven",
+      "Mature and full-featured",
+      "Adaptable"
+    ]
+  },
+  {
+      "Id": "STK",
+      "Title": "Systems Tool Kit - Pro",
+      "SubTitlePrimary": "Foundation for analyzing and visualizing complex mission systems",
+      "SubTitleSecondary": "Modeling and simulation software for digital mission engineering and systems analysis",
+      "Description": "Systems Tool Kit - Pro enablesthe creation of multi-domain scenarios that extend simulation beyond systems to an interactive model of the operational environment. Simulate your intended missions and communicate your results with reports, graphs, and stunning 3D animations. Work directly with STK’s graphical user interface or use STK Pro’s robust, documented APIs to automate workflows, integrate with other applications, or create customized tools.",
+      "Features": [
+        "Model facilities, aircraft, ships, missiles, and satellites",
+        "Attach subsystems such as antennas and sensors",
+        "Visualize your scenario in a time-dynamic 3D environment",
+        "Analyze system performance across coverage grids",
+        "Model vehicle and sensor fields of view",
+        "Create custom analysis functions",
+        "Analyze RF, optical, and radar system performance",
+        "Parallel computing"
+      ]
+    },
+    {
+      "Id": "STK PROS",
+      "Title": "Systems Tool Kit - Pro",
+      "SubTitlePrimary": "Foundation for analyzing and visualizing complex mission systems",
+      "SubTitleSecondary": "Modeling and simulation software for digital mission engineering and systems analysis",
+      "Description": "Systems Tool Kit - Pro enables the creation of multi-domain scenarios that extend simulation beyond systems to an interactive model of the operational environment. Simulate your intended missions and communicate your results with reports, graphs, and stunning 3D animations. Work directly with STK’s graphical user interface or use STK Pro’s robust, documented APIs to automate workflows, integrate with other applications, or create customized tools.",
+      "Features": [
+        "Model facilities, aircraft, ships, missiles, and satellites",
+        "Attach subsystems such as antennas and sensors",
+        "Visualize your scenario in a time-dynamic 3D environment",
+        "Analyze system performance across coverage grids",
+        "Model vehicle and sensor fields of view",
+        "Create custom analysis functions",
+        "Analyze RF, optical, and radar system performance",
+        "Parallel computing"
+      ]
+    },
+    {
+      "Id": "STK SPACE",
+      "Title": "Systems Tool Kit - Premium Space",
+      "SubTitlePrimary": "Space based foundation for analysis and visualization",
+      "SubTitleSecondary": "Advanced space analytical tools to fully understand system performance and design capabilities.",
+      "Description": "Systems Tool Kit - Premium Space adds advanced modeling of space-based platform and payload systems to STK Pro, including advanced orbit design and maneuver planning for satellite and spacecraft missions. STK Premium also adds analytical tools to improve your understanding of system performance.",
+      "Features": [
+        "High-fidelity orbit propagation",
+        "Deep space trajectory design",
+        "Rendezvous and proximity operations (RPO)",
+        "Conjunction analysis",
+        "Orbit maneuver planning",
+        "Attitude modeling",
+        "Power generation, storage, and consumption modeling",
+        "Satellite constellation design",
+        "Launch window analysis",
+        "Space environment effects"
+      ]
+    },
+    {
+      "Id": "STK AIR",
+      "Title": "Systems Tool Kit - Premium Air",
+      "SubTitlePrimary": "Air based foundation for analysis and visualization",
+      "SubTitleSecondary": "Advanced air analytical tools to fully understand system performance and design capabilities.",
+      "Description": "Systems Tool Kit - Premium Air adds advanced modeling of aircraft platforms and payload systems to STK Pro. With these capabilities, you can enhance your understanding of aircraft performance, evaluate mission metrics, and conduct feasibility studies against proposed system designs within STK’s multidomain system of systems mission modeling environment. STK Premium also adds analytical tools to improve your understanding of system performance.",
+      "Features": [
+        "Advanced aircraft mission planning and route design",
+        "Performance-based flight characteristics of aircraft platforms",
+        "Aerodynamic analysis across full flight envelopes",
+        "Pre-defined, common flight procedures",
+        "Integration with aeronautical datasets",
+        "3D editing of mission routes",
+        "Wind and atmosphere models",
+        "Support for hypersonic systems",
+        "Powerplant designs (turbofan, turbojet, etc.)"
+      ]
+    },
+    {
+      "Id": "STK ENTERPRISE",
+      "Title": "Systems Tool Kit - Enterprise",
+      "SubTitlePrimary": "Combine all of STK’s digital mission engineering software",
+      "SubTitleSecondary": "Data management solutions and analysis tools for test and evaluation activities and behavioral modeling",
+      "Description": "Systems Tool Kit - Enterprise combines all of STK’s digital mission engineering software to meet the demands of organizations with multidomain projects and distributed and fractioned teams. In addition to the advanced capabilities of STK’s Pro and Premium license options, STK Enterprise includes data management solutions and analysis tools for test and evaluation activities and behavioral modeling. It is an indispensable digital mission engineering application for the aerospace, defense, telecommunications, and other industries. It features an accurate, physics-based modeling environment to analyze platforms and payloads in a realistic mission context.",
+      "Features": [
+        "Ansys Behavior Execution Engine",
+        "Data Federate and Geospatial Content Server",
+        "Test and Evaluation Tool Kit",
+        "STK Pro",
+        "STK Premium Space",
+        "STK Premium Air"
+      ]
+    },
+    {
+      "Id": "STK SCHEDULER",
+      "Title": "Systems Tool Kit - Scheduler",
+      "SubTitlePrimary": "Powerful scheduling and planning application",
+      "SubTitleSecondary": "Designed for mission designers and operations engineers",
+      "Description": "Systems Tool Kit - Scheduler is a fully integrated STK add-on module, which provides the ability to import STK objects as scheduling resources, as well as STK intervals from reports, such as access, lighting, and orbital events, to define resource availability times and task scheduling times. The Schedule Validation routine operates independently of the schedule de conflictor. This routine ensures that the schedule does not contain any conflicts as defined by the resource and task attributes in the schedule.",
+      "Features": [
+        "Multiple scheduling algorithms",
+        "Schedule de-conflictor",
+        "Configurable Figure of Merit",
+        "Independent schedule validation",
+        "Supports dynamic scheduling",
+        "Integrated Gantt charts",
+        "Histogram chart",
+        "Schedule animation",
+        "Flexible API"
+      ]
+    },
+	{
+	  "Id": "STK MISSILE",
+	  "Title": "Systems Tool Kit - Missile Toolkit",
+	  "SubTitlePrimary": "Create system models of ballistic missiles, interceptors, and space launch vehicles",
+	  "SubTitleSecondary": "Simulate powered missile flight trajectories, intercept engagements, and defense system performance.",
+	  "Description": "Systems Tool Kit - Missile Toolkit is a high-fidelity missile flight path generator that creates multiple stage missile trajectories, battle engagement scenarios, and space launches that can be exported to STK for analysis and visualization. Simulates boost, midcourse, and terminal phases of ballistic trajectories with detailed models of gravity, atmospheric drag, guidance, PBV maneuvers, and RV deployment.",
+	  "Features": [
+		"Missile flights",
+		"Space launches",
+		"Visualization of Missile Systems",
+		"Accurate trajectory simulation",
+		"Launch and target sites",
+		"Interceptor engagements",
+		"Debris modeling",
+		"Performance plots",
+		"Thermal properties"
+	  ]
+	},
+	{
+	  "Id": "STK MODELLER",
+	  "Title": "Systems Tool Kit - Channel Modeller",
+	  "SubTitlePrimary": "High-Fidelity Wireless Channel Modeling",
+	  "SubTitleSecondary": "Virtually evaluate dynamic RF systems performance in complex urban environments",
+	  "Description": "Systems Tool Kit - Channel Modeller offers a fully digital workflow to address the needs of today’s most complex RF systems designs. Systems designers, network operators, and infrastructure planners demand the ability to digitally model, simulate, and evaluate their system performance under realistic conditions and real-world situations and circumstances. RF Channel Modeler simplifies this otherwise complex coupling of system models and simulation tools by providing a turn-key solution ready to generate highly accurate synthetic signal data suitable for analyzing against the demanding performance needs of tomorrow’s future communications systems.",
+	  "Features": [
+		"High-resolution geospatial data",
+		"RF environment models and effects",
+		"High-Fidelity System of Systems Modeling",
+		"Physics-based kinematics and motion models",
+		"Dynamic behaviors of electronically steered arrays",
+		"Dynamic Real-World RF Situations and Conditions",
+		"Fast Processing and Analysis of Resulting Data",
+		"Scalable, GPU-enhanced Architecture",
+		"Post-analysis and third-party integration options"
+	  ]
+	},
+	{
+	  "Id": "STK COMPONENTS",
+	  "Title": "Systems Tool Kit - Engine & Components",
+	  "SubTitlePrimary": "Proven technology engine and components libraries",
+	  "SubTitleSecondary": "STK Engine SDK adds AGI’s capabilities to your applications and speeds up your automation scripts",
+	  "Description": "Systems Tool Kit - Engine and Components provides an Application Programming Interface (API) for adding STK’s analytical and visualization capabilities to existing applications or to build new custom applications. STK Engine is a collection of high performance native libraries that are exposed to .NET, Java, C/C++ and scripting languages (Python, MATLAB). Additionally, the 2D and 3D views can be embedded in any program that supports ActiveX controls—including Word, Outlook, Excel and PowerPoint – to generate powerful automation tools.",
+	  "Features": [
+		"Flexible development environment",
+		"Multi-platform support",
+		"Event registration and notification",
+		"No Graphics mode",
+		"Parallel computing",
+		"Scripting",
+		"Software Development Kit (SDK)",
+		"Engine analysis extension"
+	  ]
+	},
+	{
+	  "Id": "ODTK",
+	  "Title": "Ansys Orbit Determination Toolkit",
+	  "SubTitlePrimary": "Operationally proven orbit determination solution",
+	  "SubTitleSecondary": "For over 15 years, ODTK has been the industry’s trusted solution for orbit determination software",
+	  "Description": "Orbit Determination Tool Kit (ODTK) provides highly accurate orbit estimates throughout the engineering life cycle, from mission design through operations. Run pre-flight simulations to evaluate proposed tracking methodologies, reducing costs and optimizing resources while ensuring that mission requirements are met. Visualize your results in customized output products, using the embedded reporting and graphing capability. Meet your most stringent mission requirements with ODTK’s state-of-the-art optimal sequential filter and matched smoother. Use ODTK’s automated interface to simplify your operator workflows or integrate into larger systems.",
+	  "Features": [
+		"Optimal sequential estimation",
+		"Tracking data simulation",
+		"Initial orbit determination (IOD)",
+		"Analysis capabilities",
+		"Robust, well-documented API"
+	  ]
+	},
+	{
+	  "Id": "CESIUM",
+	  "Title": "Cesium ion",
+	  "SubTitlePrimary": "The Platform for 3D Geospatial",
+	  "SubTitleSecondary": "Cesium is the open platform for software applications designed to unleash the power of 3D data",
+	  "Description": "Cesium ion SaaS is a robust, scalable, and secure platform for 3D geospatial data. Upload your content and Cesium ion will optimize it as 3D Tiles, host it in the cloud, and stream it to any device. Cesium ion includes access to curated global 3D content including Cesium World Terrain, Bing Maps imagery, and Cesium OSM Buildings. Combine these assets with your own data to see it in a geospatial context, and share the results securely with your colleagues or make them available through your apps.",
+	  "Features": [
+		"World's most efficient pipeline for creating 3D Tiles",
+		"Curated 3D global buildings, terrain, and imagery",
+		"Secure cloud hosting, built to scale",
+		"Token-based sharing so you control who has access to your data",
+		"Commercial subscription (free for non-commercial use)",
+		"Also available for your own environment as Cesium ion Self-Hosted"
+	  ]
+	},
+	{
+	  "Id": "FDS",
+	  "Title": "Astro FDS",
+	  "SubTitlePrimary": "AstroFDS is a Flight Dynamics System for Orbit Analysts to use in Space Mission Operations",
+	  "SubTitleSecondary": "Reduce Manual User Entry, Automate Routine Processes, & Reduce Operational Cost & Risk",
+	  "Description": "AstroFDS supports multi-user, multi-satellite, cloud-based systems and provides interfaces, workflows, and configuration control of the commercial software Ansys/AGI STK and ODTK. By managing the various inputs and outputs, file naming and retrieval, and consistently configuring ODTK and STK with operational settings, AstroFDS allows the Orbit Analyst to focus on specific tasks that the human operator can uniquely perform, such as trajectory design interaction and filter tuning and calibration."
+	},
+	{
+	  "Id": "EXATA",
+	  "Title": "Exata Network Modeling",
+	  "SubTitlePrimary": "Network Digital Twins — Development, analysis, testing and cyber assessment",
+	  "SubTitleSecondary": "Network digital twin solutions to model and visualize communication networks and cyber threats",
+	  "Description": "Exata Network Modeling allows the user to create a network digital twin, for real-time network simulation and emulation that replicates the behavior of a network. The emulator provides an exact, high quality, reproduction of external behavior so that the emulated system is indistinguishable from the real system. Network Emulation software provides a cost-effective method of evaluating new network technologies before actual systems or networks are built.\r\n\r\nEXata Network Modeling uses a software virtual network (SVN) to digitally represent the entire network, the various protocol layers, antennas, and devices. The system can interoperate, at one or more protocol layers, with real radios and devices to provide hardware-in-the-loop capabilities. EXata can also be connected to systems with real applications, which run on the SVN just as they would run on real networks."
+	},
+	{
+	  "Id": "ANSYS TLE",
+	  "Title": "Ansys TLE Database",
+	  "SubTitlePrimary": "Ansys Standard Object Database (SOD)",
+	  "SubTitleSecondary": "Standard Object Database tool is an online or offline Spacecraft database, of space objects from which to create new satellites in STK",
+	  "Description": "The Standard Object Database (SOD) in STK includes all satellites defined by their publicly available TLEs and enables you to conduct searches for satellites of interest. These SOD entries include descriptive data about each satellite, Satellite Owner, Launch Date, Common Names, Mission, as well as its orbit via TLE information. The SOD is accessible with all STK licenses. To learn how to use the Standard Object Database, refer to the STK Desktop help topic Insert Spacecraft Using the Standard Object Database."
+	},
+	{
+	  "Id": "COMSPOC HIDEPH",
+	  "Title": "Comspoc High Definition Ephemeris",
+	  "SubTitlePrimary": "High Definition Ephemeris Data Service",
+	  "SubTitleSecondary": "Satellite Operator, Satellite Servicer, SSA Operation Center, geolocation, Space Domain Awareness",
+	  "Description": "HiDEph service provides high-accuracy positional knowledge with realistic covariance drawing upon comprehensive data fusion and accurate orbit determination for Resident Space Objects (RSOs). HiDEph information is capable of being delivered in many forms such as ephemeris, TLE or state vector to name a few."
+	},
+	{
+	  "Id": "COMSPOC SOF",
+	  "Title": "Comspoc Safety of Flight",
+	  "SubTitlePrimary": "Safety of Flight (SoF) and Enhanced Safety of Flight",
+	  "SubTitleSecondary": "Satellite Operator, Satellite Servicer, SSA Operation Center, STM, Maneuver Planning",
+	  "Description": "Safety of Flight service screens an Resident Space Object (RSO) against all other RSOs or RSOs of interest and provides the most accurate and timely notification available. The SoF service can incorporate not only VEDCOMSPOC’s High Definition Ephemeris (HiDEph) orbit solutions, but can also ingest and screen against customer –supplied, third-party, and public orbit and planned maneuver information for RSOs of interest. SoF information is delivered in the form of Conjunction Data Messages (CDMs) or other custom formats. VEDCOMSPOC offers collision avoidance maneuver planning and Course Of Action (COA) analysis for conjunctions involving a Resident Space Object (RSO) of interest. This service leverages the above 'Safety of Flight' service."
+	},
+	{
+	  "Id": "COMSPOC MP",
+	  "Title": "Comspoc Maneuver Processing",
+	  "SubTitlePrimary": "Maneuver Processing and Calibration",
+	  "SubTitleSecondary": "Maneuver Validation, Intelligence Analysis, Maneuver Planning and Execution",
+	  "Description": "The Maneuver Process service detects and characterizes maneuvers of one or more Resident Space Objects (RSOs) of interest. This service provides detailed maneuver information including maneuver type, direction, magnitude, burn start/stop, and burn center time. The Maneuver Calibration service provides characterization information and verifies maneuver performance expectations against set execution plans. Through interactive dialogue, VEDCOMSPOC can assist customers in a variety of maneuver disciplines including maneuver magnitude and direction calibration, object relocation and collision avoidance. This will enable Operators to adjust plans of future intended maneuvers with greater predictive positional knowledge."
+	},
+	{
+	  "Id": "COMSPOC NW",
+	  "Title": "Comspoc Neighborhood Watch",
+	  "SubTitlePrimary": "Threat Assessment Warning and Neighborhood Watch",
+	  "SubTitleSecondary": "Spacecraft Operator, Radio Frequency Interference (RFI)",
+	  "Description": "Neighborhood Watch service monitors a volume of space around a Resident Space Object (RSO) of interest. It also actively detects RSOs approaching, entering, or exiting an RSO’s designated keep-out zone. The customer receives timely notifications of these potential encroachments."
+	},
+	{
+	  "Id": "SPACEFLUX",
+	  "Title": "Satellite Tacking",
+	  "SubTitlePrimary": "SpaceFlux Satellite Tacking Service",
+	  "SubTitleSecondary": "Obtain reliable measurements that you can trust, for more confident decision-making",
+	  "Description": "Spaceflux uses a global, proprietary network of optical sensors to deliver the most accurate, reliable, and timely SSA data. This enables Spaceflux to provide crucial support to orbital analysts to effectively monitor their spacecraft, compute precise orbits, and maintain collision avoidance, ensuring the safety and security of their space assets."
+	},
+	{
+	  "Id": "KRATOS",
+	  "Title": "Next Gen Tracking",
+	  "SubTitlePrimary": "Kratos Next Generation Tracking",
+	  "SubTitleSecondary": "Next Generation Satellite Tracking Services for Track Satellite Positions",
+	  "Description": "Accurate, Persistent and Timely Capabilities to Address New Challenges. Space is an interactive and dynamic domain, making it critical to understand where your satellites are in relationship to others at all time. There are an increasing number of satellite interactions, some of which are accidental, while others are not. Orbits derived from hours old data may no longer be relevant as interactions can happen quickly. Accurate, persistent and timely Space Domain Awareness (SDA) systems backed by Kratos’ global sensor network can support anyone operating in this quickly changing domain. Precision sensing and orbit determination services from Kratos supply satellite location information without the need for transmissions from the ground to the satellite, satellite cooperation, specialized satellite payloads or detailed knowledge of ranging signal structures and definition."
+	},
+	{
+	  "Id": "SAFRAN",
+	  "Title": "WeTrack™",
+	  "SubTitlePrimary": "SAFRAN WeTrack™ Service",
+	  "SubTitleSecondary": "WeTrack™ - a unique space awareness solution providing a GEO Satellite Orbits 24/7/365 Data Service",
+	  "Description": "WeTrack™ is a unique service developed, owned and operated by Safran Data Systems. Based on a global network of autonomous radio frequency (RF) sensors, get accurate orbital positions at a high data refresh rate for sharper decision making at all orbit regimes, thanks to our global coverage. With automated sensors for detection and tracking, you can stay aware 24/7, 365 days a year Using patented technology for the passive reception of satellite emissions, WeTrack™ solution covers all orbits with multiple networks deployed in Europe, the United States, and Asia. WeTrack™ uses a secure web portal to access information in real time."
+	},
+	{
+	  "Id": "LEOTRACK",
+	  "Title": "LeoTrack",
+	  "SubTitlePrimary": "LeoTrack off-the-shelf service",
+	  "SubTitleSecondary": "The foundational satellite tracking service for fleets of any size",
+	  "Description": "LeoTrack is a web-based, off-the-shelf service providing automated, independent monitoring for satellites. Built on LeoLabs Vertex™, LeoTrack delivers immediate access to precision tracking and curated orbital data products that are 10 to 100 times more accurate than TLEs. It is used operationally as a primary or backup telemetry source for everything from a single 1U satellite to the largest constellations in the world."
+	},
+	{
+	  "Id": "LEOSAFE",
+	  "Title": "LeoSafe",
+	  "SubTitlePrimary": "LeoSafe tailored collision avoidance service",
+	  "SubTitleSecondary": "Real-time conjunction alerts for operational safety of flight",
+	  "Description": "LeoSafe provides tailored collision avoidance services for satellites. Powered by our phased-array radar network, which tracks thousands of satellites, rocket bodies, and dangerous debris fragments, LeoSafe is the only commercially available service that provides critical conjunction alerts and risk metrics in real-time. Enhance your operational safety today with this one-of-a-kind service built on LeoLabs Vertex™, the world’s first vertically integrated commercial space operations stack tracking LEO at scale."
+	},
+	{
+	  "Id": "EXOTRACK",
+	  "Title": "ExoTrack",
+	  "SubTitlePrimary": "Precision ephemeris and safety of flight services for satellite operations in GEO and MEO",
+	  "SubTitleSecondary": "ExoTrack is an advanced service for ensuring mission success, safety of flight, and efficient use of resources",
+	  "Description": "ExoTrack is an API call away from integrating into operator tools. Get the information you need, when you need it, for optimizing communication services, ensuring operational efficiency, and mitigating collision risks. The ExoAnalytic Global Telescope Network (EGTN) represents a pioneering effort in advancing space domain awareness. Through a distributed network of 300-plus autonomous telescopes strategically positioned around the world, we harness the power of our state-of-the art image processing technology, providing real-time astrometric and photometric data for high-altitude, earth-orbiting satellites and debris. "
+	},
+	  {
+		"Id": "ISR 1",
+		"Title": "SP100 Intro to Space",
+		"SubTitlePrimary": "Introduction to the Space Environment and Space Systems",
+		"SubTitleSecondary": "Certified Space Professional Level 1",
+		"Description": "This course considers basic orbital mechanics, space and associated terrestrial architecture, and develops a deeper understanding of the military and commercial space environment. Graduates will be able to describe space system requirements; best employment options for available space assets; and weave in ongoing and future commercial and/or military operations and their impact on national objectives."
+	  },
+	  {
+		"Id": "ISR 2",
+		"Title": "SP200 Space Systems",
+		"SubTitlePrimary": "Space Systems Design",
+		"SubTitleSecondary": "Certified Space Professional Level 2",
+		"Description": "This course builds upon the principles of orbital mechanics and spacecraft design from Space 100. Graduates of this course will clearly articulate how satellites, payloads, and constellations are designed to provide specific capabilities. Students thoroughly explore scientific concepts behind various space- based asset design, including the use of the Electromagnetic Spectrum in remote sensing, frequency allocation and budgets for satellite communications, and the intricacies of precision navigation and timing. Students will design a payload, spacecraft and its associated systems and sub-systems, and constellation for a specific purpose as well as describe the launch and orbital transfer parameters required to ultimately achieve their design."
+	  },
+	  {
+		"Id": "ISR 3",
+		"Title": "SP300 Space Capabilities I",
+		"SubTitlePrimary": "International Space Capabilities I",
+		"SubTitleSecondary": "Certified Space Professional Level 3 – Course 1 of 2",
+		"Description": "This course introduces the student to the who, what, and why regarding China, Russia, and commercial space programs. By examining the national objectives of both countries, their current and developing space- based capabilities, and commercial space endeavors, graduates of this course will have a firm understanding of the challenges and opportunities these doctrinally based capabilities pose to US and allied interests."
+	  },
+	  {
+		"Id": "ISR 4",
+		"Title": "SP310 Space Capabilities II",
+		"SubTitlePrimary": "International Space Capabilities II (Space Control)",
+		"SubTitleSecondary": "Certified Space Professional Level 3 – Course 2 of 2",
+		"Description": "China and Russia are developing a wide array of counter-space weapons to hinder international access to essential space services and purposefully interfere with the electromagnetic spectrum. Private industry is developing orbital maintenance and orbital debris removal capabilities which will represent future counterspace threats. This course flows through the Threat Continuum providing required insight to ensure freedom of action in space and, when necessary, defend against threats and deny adversary freedom of action in space."
+	  },
+	  {
+		"Id": "ISR EXEC",
+		"Title": "SP900 Space Domain",
+		"SubTitlePrimary": "The Space Domain and National Security Executive Seminar",
+		"SubTitleSecondary": "Certified Space Professional Executive",
+		"Description": "Provides a foundation in space grand strategy to introduce students to space policy and published guidance that shapes strategic initiatives as nation states, allies and partners in space. Space 900 provides an overview of the space environment across all orbital regimes and introduces space capabilities to familiarize students with current examples across military, commercial, allied and civil space. This course provides a stark reality-check on our space vulnerabilities through a review of current adversary counter space capabilities and threat systems that provide a variety of critical services to all nations."
+	  },
+	  {
+		"Id": "LSAS START",
+		"Title": "Quick Start Program",
+		"SubTitlePrimary": "LSAS Quick Start Program",
+		"SubTitleSecondary": "Custom Instructor Lead Training",
+		"Description": "LSAS acknowledges the importance of personalized training. The LSAS Quick Start training program offers tailored, on-site or remotes sessions led by LSAS Engineers to demonstrate how to utilize our software to address your specific challenges. Each session is customizable to your learning objectives, featuring relevant examples and scenarios. The Quick Start classes are available in different durations beginning at 3 days and extending to meet your needs."
+	  },
+	  {
+		"Id": "LSAS MISSION",
+		"Title": "Space Mission Training",
+		"SubTitlePrimary": "LSAS Space Mission Training",
+		"SubTitleSecondary": "Tailored for space professionals service",
+		"Description": "Our training service is tailored for space professionals seeking rapid skill enhancement and direct access to critical knowledge. Our training partners specialize in delivering customer-centric training, ensuring that each client's specific needs are addressed with precision and expertise. We collaborate closely with customers to expedite their learning journey while leveraging the expertise of our seasoned Space Experts across various domains. Our engineers and partners are experts in the following domains including SSA, SDA, Orbit Estimation, Space Wargaming, Space Mission Design, Lunar/Cislunar Operations, and more. The training is powered by our innovative online platform, LSAS Cloud, where we provide seamless and efficient training experiences to empower our clients. To embark on your journey of accelerated skill enhancement and gain direct access to critical knowledge, take the first step today by contacting our team. Let us tailor our training service to meet your specific needs and fast-track your progress. Reach out now to begin your transformative learning experience with LSAS and our esteemed training partners."
+	  },
+	  {
+		"Id": "LSAS OD",
+		"Title": "Orbit Determination",
+		"SubTitlePrimary": "LSAS Orbit Determination",
+		"SubTitleSecondary": "Tailored for professionals in the field of Orbit Determination",
+		"Description": "Our training service is tailored for professionals in the field of Orbit Determination, offering rapid skill enhancement and direct access to critical knowledge in this specialized domain. Partnering with experts experienced in Orbit Determination, we address unique challenges such as dealing with noisy data, managing uncertainties, and optimizing orbit estimation algorithms. Collaborating closely with clients, we expedite their learning journey while leveraging the expertise of seasoned Space Experts specialized in Orbit Determination. Powered by our innovative online platform, LSAS Cloud, we provide seamless and efficient training experiences to empower our clients in mastering the complexities of Orbit Determination. Take the first step today by contacting our team to begin your transformative learning experience with LSAS and our esteemed training partners."
+	  },
+	  {
+		"Id": "LSAS SSA",
+		"Title": "SSA / SDA Training",
+		"SubTitlePrimary": "LSAS Space Situational Awareness and Space Domain Awareness",
+		"SubTitleSecondary": "Tailored for professionals in Space Situational Awareness (SSA) and Space Domain Awareness (SDA)",
+		"Description": "Our training service is specifically designed for professionals in Space Situational Awareness (SSA) and Space Domain Awareness (SDA), offering rapid skill enhancement and direct access to critical knowledge in these specialized fields. Partnering with experts experienced in SSA and SDA, we address unique challenges such as tracking and cataloging space objects, identifying potential threats, and ensuring space asset protection. Collaborating closely with clients, we expedite their learning journey while leveraging the expertise of seasoned Space Experts specialized in SSA and SDA. Powered by our innovative online platform, LSAS Cloud, we provide seamless and efficient training experiences to empower our clients in mastering the complexities of SSA and SDA. Take the first step today by contacting our team to begin your transformative learning experience with LSAS and our training partners. "
+	  },
+	  {
+		"Id": "LSAS UMA",
+		"Title": "UMA Instructor Training",
+		"SubTitlePrimary": "LSAS Unified Mission Analysis Instructor Training",
+		"SubTitleSecondary": "UMA courses cover the most of the UMA product line applications, such as Flight Dynamics, Operations Tools, Wargame, Digital Satellite, Space Operations Center, etc.",
+		"Description": "Our instructor training service is designed for space professionals covering UMA products. UMA FD with Orbit Estimation, Automated Sensor Calibration, Automated Initial Orbit Determination, Maneuver Detection and Processing, Observation Association, Uncorrelated Tracks Processing as well as Automated Reporting and Graphing. UMA OT suite of tools and capabilities of mission design, planning and analysis, through advanced automation for enhanced operational efficiency. UMA X as a comprehensive Space Operations Center software solution, providing both the SSA Operational solution along with desktop products for end-to-end operations. UMA DS Digital twin solution using COTS technology for end-to-end simulation, uplink command seqences and overall satellite operations. UMA VS Virtual Space Wargame enables operators to perform wargaming scenarios between a Red Team vs a Blue Team, enabling comprehensive analysis, and enhancing decision-making skills."
+	  },
+	  {
+		"Id": "STK L1",
+		"Title": "STK Level 1 - Beginner",
+		"SubTitlePrimary": "Ansys System Tool Kit Level 1 - Beginner",
+		"SubTitleSecondary": "Level 1 STK Certified Engineer",
+		"Description": "STK Level 1 - Beginner training is designed to familiarize first-time users with STK workflow and provide a basic understanding of STK software capabilities. This training is designed to enable you to model and incorporate your own systems and missions throughout the lessons. This training covers the basics of STK that can be completed with an Evaluation license. The Level 1 - Beginner training is a series of tutorials designed to get you started using STK. Once you have completed these tutorials, you will be ready to take the free Level 1 STK Certification test!"
+	  },
+	  {
+		"Id": "STK L2",
+		"Title": "STK Level 2 - Advanced",
+		"SubTitlePrimary": "Ansys System Tool Kit Level 2 - Advanced",
+		"SubTitleSecondary": "Level 2 STK Master Certified Engineer",
+		"Description": "STK Level 2 - Advanced training builds off of STK Level 1 - Beginner. You will take simulations from STK Fundamentals a step further with advanced analysis capabilities and tools to quantify and measure mission effectiveness. The Level 2 - Advanced Training is a series of tutorials designed to take a user through STK's advanced capabilities. Once you have completed these tutorials, you will be ready to take the level 2 STK Master Certification test!"
+	  },
+	  {
+		"Id": "STK L3",
+		"Title": "STK Level 3 - Focused",
+		"SubTitlePrimary": "Ansys System Tool Kit Level 3 - Focused",
+		"SubTitleSecondary": "Level 3 STK Grand Master Certified Engineer",
+		"Description": "The level 3 STK Grand Master Certification contains seven individual tracks that cover STK's specialized capabilities, focusing on different application areas. There are multiple tutorials types Feature-specific, Problem-specific and Programming. Upon registration for a level 3 Grand Master Certification track, you will receive an email confirmation with an attachment for a 14 day demo license. This license provides you access to all the capabilities needed to complete the track. Once you pass at least four tracks, you will become an STK Grand Master."
+	  },
+	  {
+		"Id": "ODTK OD",
+		"Title": "Orbit Determination",
+		"SubTitlePrimary": "Ansys Orbit Determination Tutorial",
+		"SubTitleSecondary": "Tutorial walks through all of the main methods of orbit determination processing in ODTK",
+		"Description": "This tutorial assumes that you don't start with any information about the satellite's initial state, but you want to perform orbit determination (OD) processing. You can start by performing IOD and LS runs. Once the initial state is well established, you can move to the OOD processes. You know the orbit type is Molniya for this case. From there you can use appropriate tracking data and derive the initial state from the tracking data. Here is the only information you have on the satellite at the start."
+	  },
+	  {
+		"Id": "ODTK MP",
+		"Title": "Adding Known Maneuvers",
+		"SubTitlePrimary": "Ansys ODTK Adding Known Maneuvers Tutorial",
+		"SubTitleSecondary": "The tutorial covers processing tracking data for a LEO satellite that performed a maneuver within the reference period",
+		"Description": "The satellite is performing a Hohmann transfer. You believe the semimajor axis changed from 7000 to 7100 km. You also know the firing times and the amount of Delta-V utilized to perform the two maneuvers. ODTK has the capability of performing orbit determination through maneuvers with no need to restart OD after the maneuver. You can model maneuvers as instantaneous or finite. An instanteous maneuver has no duration, but instanteously changes the satellite's velocity. A finite maneuver models the acceleration throughout the maneuver. ODTK also provides the capability of calibrating the maneuver from the tracking measurements."
+	  },
+	  {
+		"Id": "ODTK TS",
+		"Title": "Tracking Systems Design",
+		"SubTitlePrimary": "Ansys ODTK Tracking Systems Design Tutorial",
+		"SubTitleSecondary": "Perform a complete OD process in order to verify the performances of the tracking system",
+		"Description": "This tutorial shows a case study where you want to use a simulator to verify the position uncertainty achievable by using a different ground station network. The alternative network under consideration consists of a LEO radar for two electro-optical (EO) sites. You have been provided an ephemeris file that covers the entire repeating ground track period (21 days) and a Tracking System object comprised of a radar site (Kiruna) and two optical sites (Maspalomas and Perth). The ephemeris file has been created from STK by propagating the satellite's initial state with a high-precision orbit propagator (HPOP). After the simulator run, you can perform a complete OD process in order to verify the performances of the tracking system."
+	  },
+	  {
+		"Id": "ODTK ST",
+		"Title": "Specialized Training",
+		"SubTitlePrimary": "Ansys ODTK Specialized Training Tutorial",
+		"SubTitleSecondary": "This section also provides links to training about more specialized uses and aspects of ODTK",
+		"Description": "The following tutorials are provided in specialized training courses such as SLR in ODTK, DSN in ODTK, TDRSS in ODTK, GPS in ODTK, Processing STK Ephemeris Data as Measurements, Unscented Kalman Filter in ODTK, Flexible State Space in ODTK, Processing TDOA and FDOA Data with ODTK."
+	}
+  ],
+   "applications": [
+    {
+      "name": "EVENTS",
+      "url": "https://lsas-tec.com/events/"
+    },
+    {
+      "name": "DATA",
+      "navigateToPage": "DataPage"
+    },
+    {
+      "name": "TRAINING",
+      "navigateToPage": "TrainingPage"
+    },
+    {
+      "name": "PARTNERS",
+      "url": "https://lsas-tec.com/partners/"
+    },
+    {
+      "name": "PARTNER",
+      "url": "https://lsas-tec.com/partners/"
+    },
+    {
+      "name": "LSAS Cloud",
+      "url": "https://console.nutanix.com/lsas-tec-usa/"
+    },
+    {
+      "name": "UMA",
+      "url": "https://lsas-tec.com/products/"
+    },
+    {
+      "name": "TRAINING Cloud",
+      "url": "https://console.nutanix.com/lsas-tec-usa/"
+    }
+  ]
+}
+
+
